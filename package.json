@@ -1,0 +1,28 @@
+{
+  "name": "resume420.js",
+  "version": "1.0.0",
+  "description": "my (sack griffey's) resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valleysacks/resume.js.git"
+  },
+  "keywords": [
+    "resume",
+    "isaac",
+    "neil",
+    "griffey",
+    "credit",
+    "score",
+    "resume"
+  ],
+  "author": "Sacks Griffey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valleysacks/resume.js/issues"
+  },
+  "homepage": "https://github.com/valleysacks/resume.js#readme"
+}
